@@ -1,1 +1,1 @@
-# MobileNerV2-for-image-classification
+# image-classification
